@@ -1,0 +1,7 @@
+snscrape
+transformers
+torch
+streamlit
+nltk
+scikit-learn
+sqlite3
